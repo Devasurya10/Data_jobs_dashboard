@@ -28,13 +28,14 @@ Final Interactive Dashboard
 
 ### Dashboard 1
 
-![images](Dashboards/01_Data_jobs_dashboard_1.png)
+![Dashboard 1](images/Dashboards/01_Data_jobs_dashboard_1.png)
 
-![images](Dashboards/02_Drillthrough.png)
+![Drillthrough](images/Dashboards/02_Drillthrough.png)
 
-### Final Dashboard
 
-![images](Dashboards/03_Final_dashboard_1.png)
+## Final Dashboard
+
+![Final Dashboard](images/Dashboards/03_Final_dashboard.png)
 
 ---
 
